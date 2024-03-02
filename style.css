@@ -24,8 +24,7 @@ header{
     height: 50px;
     width: 100px;
 }
-.logo{
-    background-image: url(/assets/amazon_logo.png);
+.logo{ 
     background-size: cover;
     height: 50px;
     width: 100%;
